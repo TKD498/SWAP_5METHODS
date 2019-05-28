@@ -1,0 +1,22 @@
+{
+  "name": "swap",
+  "version": "1.0.0",
+  "description": "This is to swap two numbers using 5 different methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKD498/SWAP_5METHODS.git"
+  },
+  "author": "Tate Driggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TKD498/SWAP_5METHODS/issues"
+  },
+  "homepage": "https://github.com/TKD498/SWAP_5METHODS#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
